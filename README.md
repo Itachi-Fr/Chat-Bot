@@ -1,0 +1,2 @@
+# DISCORD SIMPLE CHAT-BOT 
+**CODED BY : ShiShui.exE**
